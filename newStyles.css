@@ -17,6 +17,10 @@
   border: 1px solid black;
 } */
 
+h1 {
+  margin-left: 100px;
+}
+
 .box__container {
   width: 50vw;
   height: 100vh;
